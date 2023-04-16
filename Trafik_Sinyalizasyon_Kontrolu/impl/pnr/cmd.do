@@ -1,0 +1,11 @@
+-d C:\Users\Asus\Desktop\fpga_proje\fpga_project1\impl\gwsynthesis\fpga_project1.vg
+-p GW1N-1-QFN48-6
+-pn GW1N-LV1QN48C6/I5
+-cst C:\Users\Asus\Desktop\fpga_proje\fpga_project1\src\fpga_project1.cst
+-cfg C:\Users\Asus\Desktop\fpga_proje\fpga_project1\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23

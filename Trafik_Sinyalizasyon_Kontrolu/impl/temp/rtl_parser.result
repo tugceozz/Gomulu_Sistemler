@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Users/Asus/Desktop/fpga_proje/fpga_project1/src/project1.v",
+  "InstLine" : 1,
+  "InstName" : "traffic_signal",
+  "ModuleFile" : "C:/Users/Asus/Desktop/fpga_proje/fpga_project1/src/project1.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "traffic_signal"
+ }
+]
